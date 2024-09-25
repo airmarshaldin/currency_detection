@@ -154,3 +154,4 @@ sample_image_path = r"C:\Users\parma\Downloads\Image Dataset of Indian Coins\Ima
 
 predicted_class = predict_image(sample_image_path)
 print(f'Predicted class index: {predicted_class}')
+"Updated content" 
